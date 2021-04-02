@@ -1,4 +1,5 @@
 # Computer-Graphic
+// chương trình chạy bằng phần mềm visual studio 2019, add project vào là có thể chạy được
 
 Kĩ thuật đồ hoạ 
 
@@ -23,3 +24,4 @@ Vẽ trong hệ tọa độ 3D.
 Cho phép người dùng chọn hình ảnh cơ bản cần vẽ: hình cầu, hình hộp chữ nhật, hình hộp vuông, hình trụ,…
 ![4](https://user-images.githubusercontent.com/81801348/113416098-c748cf00-93ea-11eb-9fb6-bd4f17a565c4.png)
 
+n
